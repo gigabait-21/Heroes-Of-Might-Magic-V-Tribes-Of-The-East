@@ -204,4 +204,4 @@ This repository serves as the official landing page for Heroes of Might & Magic 
 **Get the most recent version of Heroes of Might & Magic V: Tribes of the East today!**
 
 ---
-**Last updated:** 2026-11-08 10:02:13 UTC
+**Last updated:** 2026-11-08 16:57:58 UTC
